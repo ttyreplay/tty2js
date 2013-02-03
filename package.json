@@ -8,6 +8,9 @@
     "commander": "~1.1.1",
     "headless-terminal": "~0.0.3"
   },
+  "bin": {
+    "tty2js": "./tty2js.js"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

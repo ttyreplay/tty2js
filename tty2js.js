@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 
 // parse the command line
 var program = require('commander')
