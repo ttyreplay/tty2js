@@ -1,0 +1,21 @@
+{
+  "name": "tty2js",
+  "version": "0.0.0",
+  "description": "convert .tty file to .js file for playing with ttyreplay",
+  "main": "tty2js.js",
+  "dependencies": {
+    "binary": "~0.3.0",
+    "commander": "~1.1.1",
+    "headless-terminal": "~0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ttyreplay/tty2js.git"
+  },
+  "author": "Thai Pangsakulyanont <org.yi.dttvb@gmail.com>",
+  "license": "MIT"
+}
