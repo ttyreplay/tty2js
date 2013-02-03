@@ -1,6 +1,6 @@
 {
   "name": "tty2js",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "convert .tty file to .js file for playing with ttyreplay",
   "main": "tty2js.js",
   "dependencies": {
